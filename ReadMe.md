@@ -11,3 +11,6 @@ sudo avrdude -p atmega1284p -C /etc/avrdude.conf  -c usbasp –v -U flash:w:firm
 ```
 
 
+__Resources used for this process:__
+https://johnwyles.github.io/posts/flashing-the-creality-ender-3-with-a-raspberry-pi/
+https://www.fission3d.com/guides/flash-bootloader-and-install-firmware-with-raspberry-pi
